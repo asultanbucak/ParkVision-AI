@@ -137,7 +137,7 @@ Farklı kamera açıları altında gerçekleştirilen testlerde de model başar�
 
 ![Sonuç 3](images/result3.png)
 
-Araç yoğunluğunun yüksek olduğu görüntülerde araç tespiti başarıyla gerçekleştirilmiştir.
+Sistem tarafından 4 dolu ve 2 boş park alanı tespit edilmiş, otoparkın doluluk oranı %66,7 olarak hesaplanmıştır. Analiz sonucunda otopark "Orta Doluluk" durumunda değerlendirilmiştir.
 
 ### Test Sonucu 4
 
