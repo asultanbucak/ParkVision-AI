@@ -137,7 +137,7 @@ Farklı kamera açıları altında gerçekleştirilen testlerde de model başar�
 
 ![Sonuç 3](images/result3.png)
 
-Sistem tarafından 4 dolu ve 2 boş park alanı tespit edilmiş, otoparkın doluluk oranı %66,7 olarak hesaplanmıştır. Analiz sonucunda otopark "Orta Doluluk" durumunda değerlendirilmiştir.
+Sistem tarafından 5 dolu ve 2 boş park alanı tespit edilmiş, otoparkın doluluk oranı %71,4 olarak hesaplanmıştır. Analiz sonucunda otopark orta doluluk seviyesinde değerlendirilmiştir.
 
 ### Test Sonucu 4
 
